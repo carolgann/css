@@ -1,0 +1,3 @@
+.woocommerce ul.products li.product .button::after, .button.add_to_cart_button.product_type_simple::after {
+font-family: "ETmodules" !important;
+}
