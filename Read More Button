@@ -1,0 +1,5 @@
+.custom-blog .et_pb_post a.more-link {
+text-transform:capitalize;
+color:#ffffff;
+background:#cc0099;
+float:right;
