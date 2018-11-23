@@ -1,0 +1,2 @@
+.single-product #main-content .container:before { display: none; }
+.single-product #left-area { width: 100%; padding: 0!important; }
