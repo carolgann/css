@@ -1,0 +1,8 @@
+@media (max-width: 1324px) {
+ #et_mobile_nav_menu {
+ display: block;
+ }
+#top-menu {
+ display: none;
+ }
+ }
