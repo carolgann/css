@@ -1,0 +1,5 @@
+li.product img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail{
+max-height: 200px;
+height: 200px;
+object-fit: contain;
+}
