@@ -1,0 +1,3 @@
+.main_map_wrapper .gm-style .gm-style-iw {
+    min-height: 300px !important;
+}
